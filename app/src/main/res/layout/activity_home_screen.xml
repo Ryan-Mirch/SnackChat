@@ -153,7 +153,7 @@
         app:layout_constraintVertical_bias="0.024" />
 
     <Button
-        android:id="@+id/B_postSnacks"
+        android:id="@+id/B_yourSnacks"
         android:layout_width="190dp"
         android:layout_height="169dp"
         android:layout_marginStart="4dp"
