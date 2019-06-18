@@ -105,7 +105,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/B_favoriteSellers"
+        android:id="@+id/B_favorites"
         android:layout_width="190dp"
         android:layout_height="169dp"
         android:layout_marginStart="8dp"
@@ -121,7 +121,7 @@
         app:layout_constraintVertical_bias="0.024" />
 
     <Button
-        android:id="@+id/B_offersMessages"
+        android:id="@+id/B_messages"
         android:layout_width="190dp"
         android:layout_height="169dp"
         android:layout_marginStart="8dp"
@@ -133,18 +133,18 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/B_favoriteSellers"
+        app:layout_constraintTop_toBottomOf="@+id/B_favorites"
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/B_browse"
+        android:id="@+id/B_buy"
         android:layout_width="190dp"
         android:layout_height="169dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Browse"
+        android:text="Buy Snacks"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.961"
@@ -153,19 +153,19 @@
         app:layout_constraintVertical_bias="0.024" />
 
     <Button
-        android:id="@+id/B_yourSnacks"
+        android:id="@+id/B_sell"
         android:layout_width="190dp"
         android:layout_height="169dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Post Snacks"
+        android:text="Sell Snacks"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.961"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/B_browse"
+        app:layout_constraintTop_toBottomOf="@+id/B_buy"
         app:layout_constraintVertical_bias="0.0" />
 
     <SearchView

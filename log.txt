@@ -1,0 +1,47 @@
+commit 0b6fb69fdd6005991a89cf4a9f4ed20fe09ab889
+Author: Ryan <rwmirch@gmail.com>
+Date:   Tue May 14 13:20:58 2019 -0400
+
+    Updated Inventory Page
+
+commit f5bebfa6a43418adfaa8890cdb7a0a7985d1ba0d
+Author: Ryan <rwmirch@gmail.com>
+Date:   Tue May 14 00:38:23 2019 -0400
+
+    Added new pages, updated homescreen
+
+commit 758967cb7f1a211585d6c405c80adb4d61a7e68a
+Author: Ryan <rwmirch@gmail.com>
+Date:   Tue May 14 00:36:48 2019 -0400
+
+    Added new pages, updated homescreen
+
+commit b5d295f81a927811d87404f42ae60a1df4048450
+Author: Ryan <rwmirch@gmail.com>
+Date:   Sun May 12 23:59:19 2019 -0400
+
+    Added Logo, renamed buttons
+
+commit 5a8bef334452a56d27e4ddd897d844f2381634d5
+Author: Ryan <rwmirch@gmail.com>
+Date:   Fri May 10 23:56:58 2019 -0400
+
+    Added save button
+
+commit a5751ae75818253924b2fed93e91a10eddcad2ce
+Author: rmirch <rwmirch@gmail.com>
+Date:   Thu May 9 17:35:56 2019 -0400
+
+    Mocked up main screen
+
+commit 8b2a170caa56212348c2c2240c6568044af70fb3
+Author: rmirch <rwmirch@gmail.com>
+Date:   Wed May 8 17:08:21 2019 -0400
+
+    Logging in brings you to a blank main page.
+
+commit 68170e4c0690d07d70c3741a6ebe7e78b3197603
+Author: rmirch <rwmirch@gmail.com>
+Date:   Tue May 7 16:17:10 2019 -0400
+
+    Initial Commit
